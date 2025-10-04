@@ -1,2 +1,2 @@
-# Marketing-Arika
+# Arika-Marketing
 My new website clone
